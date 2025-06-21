@@ -1,2 +1,2 @@
 # L4D2-Plugins
-Plugin básicos creados por mi :)
+Here you will find plugins created by me :)
